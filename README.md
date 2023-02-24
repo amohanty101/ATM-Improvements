@@ -8,9 +8,9 @@ Practice communicating project specifications
 Practice communicating technical decisions you made
 
 ## Improvements made
-Added whitespace around form
-Added background color around the ATM controls
-Changed titles and labels to make more sense
+
+Updated Styles for classes atmcontrols and Select
+Changed titles and labels for better readability and understanding of the code
 Renamed state called "totalState" to "balance"
-Renamed state called "deposit" to "amount" (made more sense to "Widraw an amount" than to "Withdraw a deposit")
-Added extra validation to prevent over-withdrawing (submit gets disabled when action is Withdrawal and balance is zero).
+Renamed state called "deposit" to "amount" 
+Added  validation to prevent over-withdrawing 
